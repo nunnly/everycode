@@ -32,6 +32,8 @@
 * sign(['-42']) // -> -1
 * sign(['0'])   // ->  0
 * sign(['4','2']) // -> NaN
+*
+* PS:因为Qunit有点问题，NaN类型的值，请返回"NaN"
 */
 function sign(number){
 
