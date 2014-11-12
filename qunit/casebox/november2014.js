@@ -41,3 +41,13 @@ test("12日 sign", function(){
         equal(sign(['4','2']), "NaN", '多字符串元素数组检测');
     }
 });
+
+test("13日 reverse", function(){
+    var exist = typeof String.prototype.reverse;
+    console.log(exist);
+    ok(exist, "reverse方法检测");
+    if(exist){
+        equal("asdfasdfasdf".reverse(), "fdsafdsafdsa","reverse测试1");
+        equal("1234567890".reverse(), "0987654321","reverse测试1");
+    }
+});

@@ -4,6 +4,7 @@ var scripts = [
     //November 2014
     '../../code/2014-11-11.js',
     '../../code/2014-11-12.js',
+    '../../code/2014-11-13.js',
     'november2014.js'
 ];
 
