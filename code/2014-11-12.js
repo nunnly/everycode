@@ -1,6 +1,6 @@
 /*
 *方法描述：
-* @param number,array,object,string
+* @param number,array,string
 * @return number
 *
 * 传入一个数值类型的参数，返回该值的符号类型,
@@ -32,10 +32,6 @@
 * sign(['-42']) // -> -1
 * sign(['0'])   // ->  0
 * sign(['4','2']) // -> NaN
-*
-*
-*
-*
 */
 function sign(number){
 
