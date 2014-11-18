@@ -4,3 +4,4 @@
 - 所有的题目和答案已经全部移到[issues](https://github.com/nunnly/everycode/issues)
 - 各位可以在题目下方回复，提交自己的解决方案
 - 回复内容可以使用[markdown语法](http://wowubuntu.com/markdown/)
+- chrome调试工具[style and DOM](chrome-dev/styleAndDOM.md)翻译了一半了，有兴趣的可以看看
